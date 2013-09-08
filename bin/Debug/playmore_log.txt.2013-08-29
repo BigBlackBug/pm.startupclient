@@ -1,0 +1,693 @@
+19:05:40,336 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:165) – Version 1.0.2
+19:05:40,489 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:207) – mainForm
+19:05:40,496 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:288) – Startup Completed
+19:05:40,543 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1092) – updatestatus started
+19:05:40,548 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1054) – Settings saved
+19:05:40,562 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:166) – started connection
+19:06:02,076 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:165) – Version 1.0.2
+19:06:02,226 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:207) – mainForm
+19:06:02,233 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:288) – Startup Completed
+19:06:02,285 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1092) – updatestatus started
+19:06:02,291 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1054) – Settings saved
+19:06:02,308 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:166) – started connection
+19:06:02,350 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:861) – injector injected
+19:06:02,840 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1092) – updatestatus started
+19:06:22,692 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:102) – accepted connection
+19:06:22,933 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:353) – connection connected
+19:06:22,933 [10] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1092) – updatestatus started
+19:06:24,087 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:118) – Client 127.0.0.1:35010 connected
+19:06:24,090 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1537 bytes
+19:06:24,327 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 3073 bytes
+19:06:24,328 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 2120 bytes
+19:06:24,626 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 33 bytes
+19:06:24,628 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:243) – Recv ServerBW
+    event = stream_control
+    timestamp = 0
+    bandwidth = 137600000 (Id:2)
+19:06:24,628 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:243) – Recv ClientBW
+    event = stream_control
+    timestamp = 0
+    bandwidth = 250000
+    value2 = 2 (Id:2)
+19:06:25,055 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 235 bytes
+19:06:25,056 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD connect SERVICE 
+19:06:25,057 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments False, nil, , client_ping
+19:06:25,058 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments {id, objectEncoding, level, details, description, DSMessagingVersion, code}
+19:06:25,106 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1043 bytes
+19:06:25,443 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 450 bytes
+19:06:25,445 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:25,458 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:25,459 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments login
+19:06:25,459 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.login.Session
+19:06:25,460 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:25,461 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.login.Session{token, password, accountSummary}
+19:06:25,461 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:25,473 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read ElophantClient.Messages.Account.Session
+19:06:25,533 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 319 bytes
+19:06:25,535 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 315 bytes
+19:06:25,536 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 321 bytes
+19:06:25,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 370 bytes
+19:06:25,547 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 330 bytes
+19:06:25,549 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 321 bytes
+19:06:25,763 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+19:06:25,764 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:25,764 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:25,764 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments subscribe
+19:06:25,764 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:25,764 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:25,765 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:06:25,843 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+19:06:25,843 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:25,843 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:25,843 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments subscribe
+19:06:25,844 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:25,844 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:25,844 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:06:25,844 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments subscribe
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:25,845 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:06:25,849 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 191 bytes
+19:06:25,849 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:25,849 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:25,849 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments login
+19:06:25,850 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:25,850 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:25,850 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – success
+19:06:26,300 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 14697 bytes
+19:06:26,308 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:26,406 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:26,406 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getLoginDataPacketForUser
+19:06:26,407 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.clientfacade.domain.LoginDataPacket
+19:06:26,407 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:26,407 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.clientfacade.domain.LoginDataPacket{playerStatSummaries, restrictedChatGamesRemaining, minutesUntilShutdown, minor, maxPracticeGameSize, summonerCatalog, ipBalance, reconnectInfo, languages, simpleMessages, allSummonerData, customMinutesLeftToday, platformGameLifecycleDTO, coOpVsAiMinutesLeftToday, bingeData, inGhostGame, leaverPenaltyLevel, bingePreventionSystemEnabledForClient, pendingBadges, broadcastNotification, minutesUntilMidnight, timeUntilFirstWinOfDay, coOpVsAiMsecsUntilReset, clientSystemStates, bingeMinutesRemaining, pendingKudosDTO, leaverBusterPenaltyTime, platformId, emailStatus, matchMakingEnabled, minutesUntilShutdownEnabled, rpBalance, bingeIsPlayerInBingePreventionWindow, gameTypeConfigs, minorShutdownEnforced, competitiveRegion, customMsecsUntilReset}
+19:06:26,407 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:26,408 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read ElophantClient.Messages.Account.LoginDataPacket
+19:06:26,527 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 2657 bytes
+19:06:26,528 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getAvailableQueues
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+19:06:26,537 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+19:06:26,562 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 324 bytes
+19:06:26,790 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 317 bytes
+19:06:26,791 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:26,791 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:26,791 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getSumonerActiveBoosts
+19:06:26,792 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.summoner.boost.SummonerActiveBoostsDTO
+19:06:26,792 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:26,792 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.boost.SummonerActiveBoostsDTO{xpBoostEndDate, xpBoostPerWinCount, xpLoyaltyBoost, ipBoostPerWinCount, ipLoyaltyBoost, summonerId, ipBoostEndDate}
+19:06:26,792 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:26,810 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 323 bytes
+19:06:26,811 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 334 bytes
+19:06:27,502 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 16384 bytes
+19:06:27,509 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 281 bytes
+19:06:27,510 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 4073 bytes
+19:06:27,511 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:27,580 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 399 bytes
+19:06:27,605 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 325 bytes
+19:06:27,646 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 354 bytes
+19:06:27,726 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:27,726 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getAvailableChampions
+19:06:27,726 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:27,726 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:27,727 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+19:06:27,727 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+19:06:27,767 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read System.Collections.Generic.List`1[ElophantClient.Messages.Champion.ChampionDTO]
+19:06:27,789 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 330 bytes
+19:06:27,789 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getSummonerRuneInventory
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.summoner.runes.SummonerRuneInventory
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.runes.SummonerRuneInventory{dataVersion, summonerRunesJson, dateString, summonerRunes, summonerId, futureData}
+19:06:27,791 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:27,808 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:06:27,808 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:27,808 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:27,809 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:06:27,809 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:27,809 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:27,809 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:06:28,010 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 323 bytes
+19:06:28,044 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 231 bytes
+19:06:28,044 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:28,046 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:28,046 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getMyLeaguePositions
+19:06:28,047 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.leagues.client.dto.SummonerLeagueItemsDTO
+19:06:28,047 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:28,047 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.leagues.client.dto.SummonerLeagueItemsDTO{summonerLeagues}
+19:06:28,047 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:28,271 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:06:28,271 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:28,272 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:28,272 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments loadPreferencesByKey
+19:06:28,272 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:28,272 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:28,272 [16] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:06:28,706 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 951 bytes
+19:06:28,706 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:28,709 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:28,710 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getMasteryBook
+19:06:28,710 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.summoner.masterybook.MasteryBookDTO
+19:06:28,710 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:28,710 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.masterybook.MasteryBookDTO{bookPagesJson, dataVersion, bookPages, dateString, summonerId, futureData}
+19:06:28,710 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:32,228 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 325 bytes
+19:06:32,457 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 165 bytes
+19:06:32,457 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:32,458 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:32,458 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getSummonerNames
+19:06:32,458 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:06:32,459 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:32,459 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+19:06:32,459 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+19:06:32,460 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read FluorineFx.AMF3.ArrayCollection
+19:06:50,685 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1071 bytes
+19:06:50,924 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1445 bytes
+19:06:50,925 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:06:50,929 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:06:50,929 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments createPracticeGame
+19:06:50,929 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.game.GameDTO
+19:06:50,929 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:06:50,930 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:06:50,930 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:06:50,938 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:06:50,942 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state TEAM_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:07:19,380 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1743 bytes
+19:07:19,623 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:07:19,623 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:19,623 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:19,624 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments selectBotChampion
+19:07:19,624 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:07:19,624 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:19,625 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:07:19,850 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1682 bytes
+19:07:19,852 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:19,858 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:07:19,859 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:19,859 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:07:19,860 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:19,861 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:07:19,862 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state TEAM_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:07:30,305 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1690 bytes
+19:07:30,544 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:07:30,545 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:30,545 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:30,545 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments selectBotChampion
+19:07:30,545 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:07:30,546 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:30,546 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:07:30,772 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1739 bytes
+19:07:30,773 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:30,780 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:07:30,780 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:30,781 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:07:30,781 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:30,783 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:07:30,783 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state TEAM_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:07:31,758 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1651 bytes
+19:07:31,997 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1894 bytes
+19:07:31,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:31,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:32,002 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:32,002 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments selectBotChampion
+19:07:32,002 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:07:32,002 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:32,002 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:07:32,003 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:07:32,003 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:32,003 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:07:32,003 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:32,003 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:07:32,004 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state TEAM_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:07:42,340 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 330 bytes
+19:07:42,587 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 212 bytes
+19:07:42,588 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:42,589 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:42,589 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments startChampionSelection
+19:07:42,590 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.game.StartChampSelectDTO
+19:07:42,590 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:42,590 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.StartChampSelectDTO{invalidPlayers}
+19:07:42,590 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:42,815 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1788 bytes
+19:07:42,816 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:42,822 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:07:42,823 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:42,823 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:07:42,823 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:42,824 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:07:42,825 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state CHAMP_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:07:42,915 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 355 bytes
+19:07:43,149 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments setClientReceivedGameMessage
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:43,150 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:07:43,342 [23] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 345 bytes
+19:07:43,574 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1758 bytes
+19:07:43,575 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments getLatestGameTimerState
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments com.riotgames.platform.game.GameDTO
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:07:43,578 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:07:43,579 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:07:43,579 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state CHAMP_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+19:08:05,765 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 313 bytes
+19:08:05,997 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments selectChampion
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:08:05,998 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:08:06,226 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1788 bytes
+19:08:06,227 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:08:06,230 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:08:06,230 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:08:06,230 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:08:06,231 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:08:06,231 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:08:06,231 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state CHAMP_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 103 summoner internal name bigblackbug)}
+19:08:27,884 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 399 bytes
+19:08:28,113 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:08:28,114 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:08:28,115 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:08:28,115 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:08:28,115 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:08:28,115 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:08:28,115 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:08:48,077 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 320 bytes
+19:08:48,311 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1793 bytes
+19:08:48,311 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:08:48,314 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:08:48,314 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:08:48,315 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:08:48,315 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:08:48,316 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:08:48,316 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state POST_CHAMP_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 103 summoner internal name bigblackbug)}
+19:08:48,537 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:08:48,537 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:08:48,537 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:08:48,538 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments championSelectCompleted
+19:08:48,538 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:08:48,538 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:08:48,538 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:09:01,325 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1793 bytes
+19:09:01,327 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:09:01,332 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:09:01,333 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:09:01,333 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:09:01,333 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:09:01,334 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:09:01,335 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state POST_CHAMP_SELECTgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 103 summoner internal name bigblackbug)}
+19:09:01,552 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1791 bytes
+19:09:01,554 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:09:01,560 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:09:01,560 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:09:01,560 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:09:01,560 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:09:01,562 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:09:01,562 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state START_REQUESTEDgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 103 summoner internal name bigblackbug)}
+19:09:03,800 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 569 bytes
+19:09:03,801 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:09:03,802 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:09:03,802 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:09:03,803 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.PlayerCredentialsDto{encryptionKey, gameId, lastSelectedSkinIndex, serverIp, observer, summonerId, futureData, observerServerIp, dataVersion, handshakeToken, playerId, serverPort, observerServerPort, summonerName, observerEncryptionKey, championId}
+19:09:03,803 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:09:03,875 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 353 bytes
+19:09:04,108 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:09:04,108 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:09:04,108 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:09:04,109 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments setClientReceivedGameMessage
+19:09:04,109 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:09:04,109 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:09:04,109 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:09:10,286 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 366 bytes
+19:09:10,518 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+19:09:10,518 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:09:10,518 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:09:10,518 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments setClientReceivedMaestroMessage
+19:09:10,518 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:09:10,519 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:09:10,519 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+19:10:27,952 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 399 bytes
+19:10:28,182 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:10:28,182 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:10:28,183 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:10:28,183 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:10:28,183 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:10:28,183 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:10:28,183 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:12:28,951 [24] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:12:29,180 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:12:29,180 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:12:29,180 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:12:29,181 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:12:29,181 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:12:29,181 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:12:29,181 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:14:15,838 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1798 bytes
+19:14:15,840 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:14:15,846 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:362) – NOTIFIED receive (messagingDestination (DSA))
+19:14:15,846 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:14:15,847 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+19:14:15,847 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+19:14:15,849 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+19:14:15,849 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:975) – object read game_state TERMINATED_IN_ERRORgame_mode CLASSICgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 103 summoner internal name bigblackbug)}
+19:14:28,956 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:14:29,184 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:14:29,185 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:14:29,185 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:14:29,185 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:14:29,185 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:14:29,186 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:14:29,186 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:16:28,961 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:16:29,189 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:16:29,190 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:18:28,962 [26] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:18:29,190 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:18:29,191 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:20:28,965 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 392 bytes
+19:20:29,195 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:20:29,196 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:20:29,196 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:20:29,196 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:20:29,197 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:20:29,197 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:20:29,197 [25] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:22:29,004 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:22:29,234 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:22:29,234 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:22:29,235 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:22:29,235 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:22:29,236 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:22:29,236 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:22:29,236 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:24:29,033 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:24:29,262 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:24:29,263 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:24:29,263 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:24:29,264 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:24:29,264 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:24:29,264 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:24:29,264 [27] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+19:26:29,040 [11] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 395 bytes
+19:26:29,271 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+19:26:29,272 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+19:26:29,272 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:344) – CALLING METHOD  SERVICE 
+19:26:29,272 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:345) – call arguments performLCDSHeartBeat
+19:26:29,273 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:346) – result arguments (DSK)
+19:26:29,273 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+19:26:29,273 [28] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+20:03:37,325 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:161) – Version 1.0.2
+20:03:37,519 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:203) – mainForm
+20:03:37,529 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:284) – Startup Completed
+20:03:37,594 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1096) – updatestatus started
+20:03:37,605 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1058) – Settings saved
+20:03:37,622 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:166) – started connection
+20:03:37,691 [14] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:860) – injector injected
+20:03:41,266 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1096) – updatestatus started
+20:03:45,226 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:102) – accepted connection
+20:03:45,483 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:349) – connection connected
+20:03:45,483 [9] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:1096) – updatestatus started
+20:03:46,714 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\ProxyHost.cs:118) – Client 127.0.0.1:21028 connected
+20:03:46,718 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1537 bytes
+20:03:46,957 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 3073 bytes
+20:03:46,958 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 2120 bytes
+20:03:47,303 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 33 bytes
+20:03:47,304 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:243) – Recv ServerBW
+    event = stream_control
+    timestamp = 0
+    bandwidth = 139136000 (Id:2)
+20:03:47,305 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:243) – Recv ClientBW
+    event = stream_control
+    timestamp = 0
+    bandwidth = 250000
+    value2 = 2 (Id:2)
+20:03:47,734 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 235 bytes
+20:03:47,735 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD connect SERVICE 
+20:03:47,736 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments False, nil, , client_ping
+20:03:47,736 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments {id, objectEncoding, level, details, description, DSMessagingVersion, code}
+20:03:47,767 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1043 bytes
+20:03:48,088 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 450 bytes
+20:03:48,089 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:48,094 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:48,094 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments login
+20:03:48,095 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.login.Session
+20:03:48,096 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:48,096 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.login.Session{token, password, accountSummary}
+20:03:48,096 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:48,111 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read ElophantClient.Messages.Account.Session
+20:03:48,162 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 319 bytes
+20:03:48,165 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 315 bytes
+20:03:48,165 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 321 bytes
+20:03:48,166 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 370 bytes
+20:03:48,170 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 330 bytes
+20:03:48,172 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 321 bytes
+20:03:48,401 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+20:03:48,401 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:48,401 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:48,402 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments subscribe
+20:03:48,402 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:48,402 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:48,402 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:03:48,483 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+20:03:48,483 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:48,484 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:48,484 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments subscribe
+20:03:48,484 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:48,485 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:48,485 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:03:48,487 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 102 bytes
+20:03:48,487 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:48,488 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:48,488 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments subscribe
+20:03:48,488 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:48,489 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:48,489 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:03:48,489 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 191 bytes
+20:03:48,490 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:48,491 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:48,491 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments login
+20:03:48,491 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:48,491 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:48,492 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – success
+20:03:48,938 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 14699 bytes
+20:03:48,943 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:49,027 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:49,027 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getLoginDataPacketForUser
+20:03:49,028 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.clientfacade.domain.LoginDataPacket
+20:03:49,028 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:49,028 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.clientfacade.domain.LoginDataPacket{playerStatSummaries, restrictedChatGamesRemaining, minutesUntilShutdown, minor, maxPracticeGameSize, summonerCatalog, ipBalance, reconnectInfo, languages, simpleMessages, allSummonerData, customMinutesLeftToday, platformGameLifecycleDTO, coOpVsAiMinutesLeftToday, bingeData, inGhostGame, leaverPenaltyLevel, bingePreventionSystemEnabledForClient, pendingBadges, broadcastNotification, minutesUntilMidnight, timeUntilFirstWinOfDay, coOpVsAiMsecsUntilReset, clientSystemStates, bingeMinutesRemaining, pendingKudosDTO, leaverBusterPenaltyTime, platformId, emailStatus, matchMakingEnabled, minutesUntilShutdownEnabled, rpBalance, bingeIsPlayerInBingePreventionWindow, gameTypeConfigs, minorShutdownEnforced, competitiveRegion, customMsecsUntilReset}
+20:03:49,028 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:49,029 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read ElophantClient.Messages.Account.LoginDataPacket
+20:03:49,040 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 2657 bytes
+20:03:49,041 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getAvailableQueues
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+20:03:49,051 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+20:03:49,083 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 324 bytes
+20:03:49,393 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 317 bytes
+20:03:49,393 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:49,394 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:49,394 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getSumonerActiveBoosts
+20:03:49,394 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.summoner.boost.SummonerActiveBoostsDTO
+20:03:49,394 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:49,395 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.boost.SummonerActiveBoostsDTO{xpBoostEndDate, xpBoostPerWinCount, xpLoyaltyBoost, ipBoostPerWinCount, ipLoyaltyBoost, summonerId, ipBoostEndDate}
+20:03:49,395 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:49,413 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 323 bytes
+20:03:49,415 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 334 bytes
+20:03:49,880 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 16384 bytes
+20:03:49,884 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 281 bytes
+20:03:50,110 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 4403 bytes
+20:03:50,111 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:50,199 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 399 bytes
+20:03:50,223 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 325 bytes
+20:03:50,262 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 354 bytes
+20:03:50,340 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getAvailableChampions
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+20:03:50,341 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+20:03:50,383 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read System.Collections.Generic.List`1[ElophantClient.Messages.Champion.ChampionDTO]
+20:03:50,406 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:50,407 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getSummonerRuneInventory
+20:03:50,407 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.summoner.runes.SummonerRuneInventory
+20:03:50,407 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:50,408 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.runes.SummonerRuneInventory{dataVersion, summonerRunesJson, dateString, summonerRunes, summonerId, futureData}
+20:03:50,408 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:50,427 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 110 bytes
+20:03:50,427 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:50,427 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:50,427 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments performLCDSHeartBeat
+20:03:50,428 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:50,428 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:50,428 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – 5
+20:03:50,662 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 231 bytes
+20:03:50,662 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:50,663 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:50,663 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getMyLeaguePositions
+20:03:50,663 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.leagues.client.dto.SummonerLeagueItemsDTO
+20:03:50,663 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:50,663 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.leagues.client.dto.SummonerLeagueItemsDTO{summonerLeagues}
+20:03:50,664 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:51,092 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+20:03:51,092 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:51,092 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:51,092 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments loadPreferencesByKey
+20:03:51,092 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:51,093 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:51,093 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:03:51,274 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 323 bytes
+20:03:51,503 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 951 bytes
+20:03:51,504 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getMasteryBook
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.summoner.masterybook.MasteryBookDTO
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.summoner.masterybook.MasteryBookDTO{bookPagesJson, dataVersion, bookPages, dateString, summonerId, futureData}
+20:03:51,507 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:03:55,767 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 325 bytes
+20:03:55,995 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 165 bytes
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getSummonerNames
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:03:55,996 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – FluorineFx.AMF3.ArrayCollection
+20:03:55,997 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:44) – is an ArrayCollection
+20:03:55,997 [21] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read FluorineFx.AMF3.ArrayCollection
+20:04:03,976 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1067 bytes
+20:04:04,214 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1445 bytes
+20:04:04,215 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:04,218 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:04,219 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments createPracticeGame
+20:04:04,219 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.game.GameDTO
+20:04:04,219 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:04,220 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:04,220 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:04,227 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:04,231 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state TEAM_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {} selections {(champ_id 0 summoner internal name bigblackbug)}
+20:04:08,876 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 1592 bytes
+20:04:09,368 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1791 bytes
+20:04:09,369 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:09,370 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:09,372 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:09,372 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments selectBotChampion
+20:04:09,372 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:04:09,372 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:09,372 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:04:09,373 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:358) – NOTIFIED receive (messagingDestination (DSA))
+20:04:09,373 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:09,374 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:09,374 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:09,375 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:09,375 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state TEAM_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+20:04:18,369 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 330 bytes
+20:04:18,632 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 212 bytes
+20:04:18,633 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:18,635 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:18,635 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments startChampionSelection
+20:04:18,636 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.game.StartChampSelectDTO
+20:04:18,636 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:18,636 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.StartChampSelectDTO{invalidPlayers}
+20:04:18,636 [20] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:18,860 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1685 bytes
+20:04:18,862 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:18,866 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:358) – NOTIFIED receive (messagingDestination (DSA))
+20:04:18,866 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:18,867 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:18,867 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:18,868 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:18,868 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state CHAMP_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+20:04:19,020 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 355 bytes
+20:04:19,268 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+20:04:19,268 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:19,268 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:19,269 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments setClientReceivedGameMessage
+20:04:19,269 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:04:19,269 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:19,269 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:04:19,451 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 345 bytes
+20:04:19,688 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1655 bytes
+20:04:19,689 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:19,691 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:19,691 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments getLatestGameTimerState
+20:04:19,691 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments com.riotgames.platform.game.GameDTO
+20:04:19,691 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:19,691 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:19,692 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:19,692 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:19,692 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state CHAMP_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 0 summoner internal name bigblackbug)}
+20:04:27,021 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 313 bytes
+20:04:27,254 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1792 bytes
+20:04:27,254 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:27,255 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:27,257 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments selectChampion
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:358) – NOTIFIED receive (messagingDestination (DSA))
+20:04:27,258 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:27,259 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:27,259 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:27,260 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:27,260 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state CHAMP_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 96 summoner internal name bigblackbug)}
+20:04:29,490 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 320 bytes
+20:04:29,724 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 1691 bytes
+20:04:29,725 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:29,729 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:358) – NOTIFIED receive (messagingDestination (DSA))
+20:04:29,729 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:29,730 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:26) – com.riotgames.platform.game.GameDTO{spectatorsAllowed, passwordSet, gameType, gameTypeConfigId, glmGameId, gameState, glmHost, observers, statusOfParticipants, glmSecurePort, id, ownerSummary, teamTwo, bannedChampions, dataVersion, roomName, name, spectatorDelay, teamOne, terminatedCondition, queueTypeName, glmPort, passbackUrl, roomPassword, optimisticLock, maxNumPlayers, queuePosition, futureData, gameMode, expiryTime, mapId, banOrder, pickTurn, gameStateString, playerChampionSelections, joinTimerDuration, passbackDataPacket}
+20:04:29,730 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:39) – is a ASObject
+20:04:29,731 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:51) – transformed to messageobject
+20:04:29,731 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:974) – object read game_state POST_CHAMP_SELECTgame_mode CLASSICqueuetypeNONEgame_type PRACTICE_GAME team_one {(ElophantClient.Messages.GameLobby.Participants.PlayerParticipantsumm_id 23650138 summ_int_name bigblackbug summ_name BigBlackBug acc_id 27868556 team_participant_id 0)}team_two {(ElophantClient.Messages.GameLobby.Participants.BotParticipant)} selections {(champ_id 96 summoner internal name bigblackbug)}
+20:04:29,951 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 107 bytes
+20:04:29,951 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messaging\Messages\AsyncMessage.cs:33) – reading async message
+20:04:29,956 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:29,956 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments championSelectCompleted
+20:04:29,956 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments (DSK)
+20:04:29,956 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:29,956 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:04:41,393 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 342 bytes
+20:04:41,652 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:230) – Recv 298 bytes
+20:04:41,653 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:340) – CALLING METHOD  SERVICE 
+20:04:41,653 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:341) – call arguments logout
+20:04:41,654 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Gui\MainForm.cs:342) – result arguments Flex Message (AcknowledgeMessage) 
+    clientId = 2F2A323A-0A09-7072-FC2B-EDF2C0ED5486
+    correlationId = 9868FAA2-1ADA-C6CB-81AF-CAD1CB30A1F8
+    destination = 
+    messageId = 2F2A3283-480A-72D6-16AA-93B65640A10F
+    timestamp = 1377792281544
+    timeToLive = 0
+    body = null
+20:04:41,654 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:23) – process object - 
+20:04:41,654 [15] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Messages\Readers\MessageReader.cs:30) – flash object is null
+20:04:41,673 [22] INFO playmore_logger (c:\Users\BigBlackBug\Dropbox\elo\ElophantClient\Proxy\RtmpsProxyClient.cs:319) – Send 278 bytes

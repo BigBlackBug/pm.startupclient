@@ -1,0 +1,15 @@
+22:52:37,762 [9] INFO playmore_logger Ц Version 0.1
+22:52:37,892 [9] DEBUG playmore_logger Ц System.IO.IOException: ѕроцесс не может получить доступ к файлу "C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\settings.json", так как этот файл используетс€ другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   в System.IO.File.Open(String path, FileMode mode, FileAccess access)
+   в PlaymoreClient.Gui.MainSettings.Save(String file) в c:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\PlaymoreClient\Gui\MainSettings.cs:строка 113
+22:52:37,909 [9] DEBUG playmore_logger Ц System.IO.IOException: ѕроцесс не может получить доступ к файлу "C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\settings.json", так как этот файл используетс€ другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   в System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   в System.IO.File.Open(String path, FileMode mode, FileAccess access)
+   в PlaymoreClient.Gui.MainSettings.Save(String file) в c:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\PlaymoreClient\Gui\MainSettings.cs:строка 113
+22:52:38,012 [9] INFO playmore_logger Ц cert prod.eun1.lol.riotgames.com
+22:52:38,026 [9] INFO playmore_logger Ц Startup Completed

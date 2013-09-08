@@ -1,0 +1,11 @@
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\ElophantClient.exe
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\ElophantClient.pdb
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\ElophantClient.exe
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\ElophantClient.pdb
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\log4net.dll
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\bin\Release\log4net.xml
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\PlaymoreClient.csprojResolveAssemblyReference.cache
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\PlaymoreClient.Gui.MainForm.resources
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\PlaymoreClient.Gui.PMMainForm.resources
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\PlaymoreClient.Properties.Resources.resources
+C:\Users\BigBlackBug\eclipse_projects\PlayMore\pm.client\PlaymoreStartupGUI\obj\x86\Release\PlaymoreClient.csproj.GenerateResource.Cache
